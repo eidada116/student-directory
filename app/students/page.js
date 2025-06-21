@@ -7,7 +7,7 @@ export default async function StudentsPage() {
 
   return (
     <div>
-      <h2>All Students</h2>
+      <h2>List of Students</h2>
       <table>
         <thead>
           <tr><th>Name</th><th>Email</th><th>Course</th></tr>
